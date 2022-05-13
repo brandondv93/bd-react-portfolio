@@ -1,0 +1,20 @@
+textarea {
+    border: 1px solid $teal;
+    font-family: "Playfair Display", sans-serif;
+    background-color: transparent;
+    font-size: 1rem;
+    height: 100px;
+    outline: none;
+    padding: 10px;
+}
+
+.select-element {
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    font-family: "Playfair Display", sans-serif;
+    width: 100%;
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: transparent;
+    outline: none;
+}
